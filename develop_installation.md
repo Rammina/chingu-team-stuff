@@ -12,7 +12,7 @@
 
   - / .env file should contain:
   - MONGO_URL=mongodb://dbBearsTeam:Bears07@cluster0-shard-00-00.hqsyu.mongodb.net:27017,cluster0-shard-00-01.hqsyu.mongodb.net:27017,cluster0-shard-00-02.hqsyu.mongodb.net:27017/go-on-db?ssl=true&replicaSet=atlas-13xswp-shard-0&authSource=admin&retryWrites=true&w=majority
-  - SECRETKEY=1cantbearitanymore!
+  - JWT_SECRETKEY=1cantbearitanymore!
   - STRIPE_SECRETKEY=sk_test_51IxJ2SIxV9qIAWAEGmoQPjDZpnttRSuoDJskYjfiZlNUCfuqeftvxNtN85ucyWyz8GsNLpWKUuH0XIkt2miWL20T00Odi5yAF4
   - STRIPE_ENDPOINT_SECRET=whsec_Nc8lZAOCsS35Q5ELpEX82wsaVfTyoGEA
 
