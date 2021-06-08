@@ -1,13 +1,9 @@
 # Stripe CLI & Webhook Installation for Development Environment
 
-<hr>
-
 ## Purpose
 
 These are dev environment installation guidelines for using Stripe webhooks and installing Stripe CLI, meant to be used in our team's application, [RestoFund](https://github.com/chingu-voyages/v30-bears-team-07) (for Chingu voyage 30, v30-bears-team-07).
 Without completing this process, the server routes will not be able to listen to checkout completion, and the database will not be updated after a checkout.
-
-<hr>
 
 ## Instructions
 
